@@ -1,3 +1,3 @@
 # MavenCounterWebApp
 MavenCounterWebApp
-Trigerring job webhook
+Trigerring job by poll scm
