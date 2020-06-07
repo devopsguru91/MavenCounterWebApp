@@ -5,6 +5,6 @@ github-webhook/
 test changes for scm
 github-webhook /
 
-changes done to trigger webhook
+changes done to trigger webhook twice
 
 changes done to hiy scm polling
