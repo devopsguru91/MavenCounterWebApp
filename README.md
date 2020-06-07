@@ -7,4 +7,4 @@ github-webhook /
 
 changes done to trigger webhook twice
 
-changes done to hiy scm polling
+changes done to invoke SCM Polling
