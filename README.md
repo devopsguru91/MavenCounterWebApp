@@ -7,4 +7,5 @@ github-webhook /
 
 changes done to invoke SCM Polling
 
-hanges done to trigger webhook 
+changes done to invoke SCM Polling
+
